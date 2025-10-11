@@ -24,5 +24,3 @@ function f() {
     console.log("hello")
     return 1;
 }
-const greeting = f();
-console.log("greeting", greeting)
